@@ -1,0 +1,8 @@
+.container {
+	width: 90vw;
+	min-height: 70vh;
+	background-color: black;
+	border-radius: 15px;
+	padding: 20px;
+	/* border: 2px solid red; */
+}
